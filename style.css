@@ -1,0 +1,31 @@
+.container{
+    display: inline-block;
+    font-size: 20px;
+}
+
+.logo .logo-text{
+    display: inline-block;
+    padding-left: 20px;
+    font-size: 20px;
+}
+body{
+
+    margin: 10px;
+}
+main{
+    padding-left: 450px;
+}
+.task{
+  color: white;
+  background-color: #6161f4;
+  border-radius: 0&;
+}
+.section{
+    background-color: white;
+    color: gray;
+    border-radius: 0%;
+}
+.task .section{
+    display: none;
+  
+}
