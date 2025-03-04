@@ -1,6 +1,9 @@
-.container{
-    display: inline-block;
+.header{
+    display: block;
     font-size: 20px;
+    height: 100px;
+    background-color: white;
+    padding-bottom: 25px;
 }
 
 .logo .logo-text{
@@ -9,23 +12,23 @@
     font-size: 20px;
 }
 body{
-
+ background-color: #c1c0c0;
     margin: 10px;
 }
 main{
     padding-left: 450px;
+ background-color: white;
 }
 .task{
   color: white;
   background-color: #6161f4;
-  border-radius: 0&;
+  border-radius: 5px;
+  border: 0px;
 }
 .section{
     background-color: white;
     color: gray;
-    border-radius: 0%;
-}
-.task .section{
-    display: none;
-  
+    border-radius: 3px;
+    border: 1px solid grey;
+    padding: 30px;
 }
