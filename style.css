@@ -29,6 +29,78 @@ main{
     background-color: white;
     color: gray;
     border-radius: 3px;
-    border: 1px solid grey;
-    padding: 30px;
+    border: 1px solid #c1c0c0;
+}
+
+.text .title{
+     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.text2 .title2{
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.text3 .title3{
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#text{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.button-text{
+    background-color: hsl(240, 100%, 68%);
+    border-radius: 5px;
+    border: 0px;
+    color: white;
+}
+.button-title2{
+    background-color: #6161f4;
+    margin: 5px;
+    border: 0px;
+    border-radius: 5px;
+    color: white;
+}
+
+.button-q1{
+    background-color: hsl(304, 74%, 22%);
+    margin: 3px;
+    border: 0px;
+    border-radius: 5px;
+    color: white;
+}
+.button-john{
+    background-color: hsl(149, 100%, 28%);
+    margin: 3px;
+    border: 0px;
+    border-radius: 5px;
+    color: white;
+
+}
+.button-summit{
+    background-color: hwb(33 1% 14%);
+    margin: 5px;
+    border: 0px;
+    border-radius: 5px;
+    color: white;
+
+}
+.button-website{
+    background-color: rgb(219, 3, 219);
+    margin: 5px;
+    border: 0px;
+    border-radius: 5px;
+    color: white;
+
+}
+
+.button-safes{
+    background-color: #7ebd00;
+    margin: 5px;
+    border: 0px;
+    border-radius: 5px;
+    color: white;
+}
+.button-editorial{
+    background-color: hwb(240 34% 4%);
+    margin: 5px;
+    border: 0px;
+    border-radius: 5px;
+    color: white;
 }
